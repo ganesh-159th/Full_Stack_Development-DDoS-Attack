@@ -1,0 +1,9 @@
+plugins {
+    // other plugins...
+    id 'application'
+}
+
+application {
+    mainClassName = '/Users/ganesh/IdeaProjects/full-stack developer/src/main/java/DdosDetector.java'
+
+}
